@@ -1,4 +1,5 @@
 
+# AI Chat Assistant using OpenRouter and nextJs
 ## Getting Started
 
 First, run the development server:
