@@ -31,7 +31,7 @@ AI: "Thank you so much for your generosity! Donations can be made through our we
 export async function POST(req) {
   const openai = new OpenAI(({
     baseURL: "https://openrouter.ai/api/v1",
-    apiKey: "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"
+    apiKey: "openrouter api key"
   })) // Create a new instance of the OpenAI client
   const data = await req.json() // Parse the JSON body of the incoming request
 
